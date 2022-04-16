@@ -13,4 +13,4 @@ What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Началась наша история сайтов 1 год назад. 28 мая, мы были в седьмом классе, у нашего ученика(Невдаха Александра) появилась идея сделать сайт для класса с дз. И он сделал. Находится она по ссылке ([7bstolingymnasium.ml])
