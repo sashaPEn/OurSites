@@ -14,10 +14,10 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+ Наш основной сайт: "https://8bstolingymnasium.ml"
+  Дополнительные материалы:
+    - Беларусская мова: "bel-mova"
+    - Беларусская литература: "bel-lit"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
