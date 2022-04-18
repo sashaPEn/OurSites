@@ -15,9 +15,10 @@ author: Alexander Nevdah
 
 navbar-links:
  #Наш основной сайт: "https://8bstolingymnasium.ml"
-  Дополнительные материалы:
-    - Беларусская мова: "homework.8bstolingymnasium.ml/bel-mova.html"
-    - Беларусская литература: "homework.8bstolingymnasium.ml/bel-lit.html"
+ Главная: "https://homework.8bstolingymnasium.ml/bel-mova.html"
+ Дополнительные материалы:
+    - Беларусская мова: "https://homework.8bstolingymnasium.ml/bel-mova.html"
+    - Беларусская литература: "https://homework.8bstolingymnasium.ml/bel-lit.html"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
