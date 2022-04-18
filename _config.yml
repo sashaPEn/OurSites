@@ -9,15 +9,15 @@
 title: Домашние задание
 
 # Your name to show in the footer
-author: Some Person
+author: Alexander Nevdah
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
  Наш основной сайт: "https://8bstolingymnasium.ml"
   Дополнительные материалы:
-    - Беларусская мова: "bel-mova"
-    - Беларусская литература: "bel-lit"
+    - Беларусская мова: "homework.8bstolingymnasium.ml/bel-mova.html"
+    - Беларусская литература: "homework.8bstolingymnasium.ml/bel-lit.html"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
