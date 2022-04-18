@@ -14,17 +14,18 @@ author: Alexander Nevdah
 # --- List of links in the navigation bar --- #
 
 navbar-links:
- #Наш основной сайт: "https://8bstolingymnasium.ml"
+ Our site: "8bstolingymnasium.ml"
  Дополнительные материалы:
     - Беларусская мова: "https://homework.8bstolingymnasium.ml/bel-mova.html"
     - Беларусская литература: "https://homework.8bstolingymnasium.ml/bel-lit.html"
   Author's home: "https://deanattali.com"
 
+
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/icon-removebg-preview.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
