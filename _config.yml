@@ -15,10 +15,10 @@ author: Alexander Nevdah
 
 navbar-links:
   Главная: "index"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Ресурсы:
+    - Беларусская литература: "https://beautifuljekyll.com"
+    - Беларусская мова: "https://www.markdowntutorial.com/"
+  Наши сайты: "https://8bstolingymnasium.ml"
 
 
 # --- Logo --- #
