@@ -1,0 +1,7 @@
+---
+layout: post
+title: Белорусская литература
+subtitle: Ресурсы по белорусской мове
+tags: [bellit]
+---
+<object><embed src="ссылка файла pdf" width="700" height="500" /></object>
