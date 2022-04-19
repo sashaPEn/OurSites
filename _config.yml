@@ -16,7 +16,7 @@ author: Alexander Nevdah
 navbar-links:
   Главная: "index"
   Ресурсы:
-    - Беларусская литература: "bel-lit"
+    - Беларусская литература: "_layouts/bel-lit.md"
     - Беларусская мова: "https://www.markdowntutorial.com/"
   Наши сайты: "https://8bstolingymnasium.ml"
 
